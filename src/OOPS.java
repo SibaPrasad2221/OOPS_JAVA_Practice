@@ -36,6 +36,7 @@ public class OOPS{
 //        System.out.println("I am from parent class");
         System.out.println("Name "+name+" with id: "+id+" from "+location);
     }
+    //now we have understood all the concepts
 }
 
 
